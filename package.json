@@ -33,7 +33,7 @@
     "bignumber.js": "^9.0.1",
     "eventemitter3": "^4.0.7",
     "install": "^0.13.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "npm": "^7.19.1"
   }
 }
